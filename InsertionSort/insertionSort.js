@@ -1,3 +1,12 @@
+/*
+Time Complexity 
+Best ==> O(n)
+Average ==> O(n^2)
+Worst ==> O(n^2)
+
+Space Complexity ==> O(1)
+*/
+
 function insertionSort(arr){
     for (let i = 1; i < arr.length; i++){
         let cuurentValue = arr[i];

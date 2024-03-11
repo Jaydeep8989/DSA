@@ -1,5 +1,11 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
+/*
+Time Complexity 
+Best ==> O(n log n)
+Average ==> O(n log n)
+Worst ==> O(n log n)
+
+Space Complexity ==> O(n)
+*/
 
 function merger(arr, arr2){
     let result = [];

@@ -1,3 +1,12 @@
+/*
+Time Complexity 
+Best ==> O(n^2)
+Average ==> O(n^2)
+Worst ==> O(n^2)
+
+Space Complexity ==> O(1)
+*/
+
 function selectionSort(arr){
 
     for(let i = 0; i < arr.length; i++){

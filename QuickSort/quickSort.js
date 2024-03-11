@@ -1,3 +1,12 @@
+/*
+Time Complexity 
+Best ==> O(n logn)
+Average ==> O(n log n)
+Worst ==> O(n^2)
+
+Space Complexity ==> O(log n)
+*/
+
 function pivot(arr, start = 0, end = arr.length-1){
 
     function swap(arr, i, j){
